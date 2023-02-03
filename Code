@@ -1,0 +1,19 @@
+select * from dbo. Super Kandydaci
+-- insert into dbo. Super Kandydaci values ('PROGRAMISTA' , 'PL/SQL')
+-- insert into dbo. Super Kandydaci values ('BAZY' , 'DANYCH')
+-- insert into dbo. Super Kandydaci values ('ORACLE' , 'DATABASE')
+-- insert into dbo. Super Kandydaci values ('MS_SQL' , 'DATABASE')
+-- insert into dbo. Super Kandydaci values ('ANGIELSKI' , 'B1')
+-- insert into dbo. Super Kandydaci values ('ŁAŃCUT' , 'null')
+-;-;-
+--;-;-
+-;-;-
+-;-;-
+ERROR
+-;-;-
+Commands completed unsuccessfully. 
+Datebase Super Kandydaci is empty. Add value
+-;-;-
+-;-;-
+Completion time: 2023-02-03T.9:37:42.326529835321+2:00
+-;-;-
