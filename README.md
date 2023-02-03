@@ -26,7 +26,7 @@ Czego od Ciebie oczekujemy?
 
 Co możemy Ci zaoferować?
 •	Umowę o pracę lub B2B - wybór należy do Ciebie
-•	Wysokość wynagrodzenia jest ustalana indywidualnie w oparciu o posiadane doświadczenie zawodowe
+•	Wysokość wynagrodzenia jest ustalana indywidualnie w oparciu o posiadane doświadczenie zawodowe (+/- 8000 zł brutto)
 •	Pracę od poniedziałku do piątku, elastyczne godziny rozpoczęcia dnia między 7 a 8 
 •	Po okresie wdrożenia możliwa praca hybrydowa
 •	ZFŚS
